@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842634316710",
+    "project_id": "aboncoffee-b5602",
+    "storage_bucket": "aboncoffee-b5602.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842634316710:android:0f453aa6e3c75da3f59d67",
+        "android_client_info": {
+          "package_name": "com.aboncoffee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842634316710-c2aktpg9e6rrc444uqfnsh0v7r7ufedj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvMI8MxTBLOW4cm7q67eO9AYKjrZJLTAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842634316710-c2aktpg9e6rrc444uqfnsh0v7r7ufedj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
